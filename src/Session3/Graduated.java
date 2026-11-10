@@ -2,7 +2,7 @@ package Session3;
 
 public class Graduated {
      public static void main(String[] args) {
-        int score = 80;
+        int score = 79;
 
         if (score >= 90) {
             System.out.println("You get Grade: A");
